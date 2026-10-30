@@ -5,7 +5,7 @@
     "description": "Der zentrale App-Hub",
     "versionCode": 2, 
     "apkSizeMb": 4.8,
-    "downloadUrl": "https://github.com/AlfinoTV/ALXCORE---Launcher/releases/download/v1.1.0/ALXCORE-Launcher.apk"
+    "downloadUrl": "https://github.com/AlfinoTV/ALXCORE---Launcher/releases/download/v1.1.0/ALXCORE-Launcher.v.1.1.0.apk"
   },
   {
     "appId": "com.example.todo",
