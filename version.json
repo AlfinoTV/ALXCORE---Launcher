@@ -1,0 +1,10 @@
+[
+  {
+    "appId": "com.deinname.spiel1",
+    "name": "ToDO",
+    "description": "ToDO App",
+    "versionCode": 2,
+    "apkSizeMb": 18.4,
+    "downloadUrl": "https://github.com/DEIN_USERNAME/mein-app-hub/releases/download/v1.0/spiel1.apk"
+  }
+]
