@@ -3,9 +3,9 @@
     "appId": "com.example.alxcore_launcher",
     "name": "ALXCORE Launcher",
     "description": "Der zentrale App-Hub",
-    "versionCode": 1,
-    "apkSizeMb": 4.5,
-    "downloadUrl": "https://github.com/AlfinoTV/ALXCORE---Launcher/releases/download/v1.0.0/ALXCORE-Launcher.apk"
+    "versionCode": 2, 
+    "apkSizeMb": 4.8,
+    "downloadUrl": "https://github.com/AlfinoTV/ALXCORE---Launcher/releases/download/v1.1.0/ALXCORE-Launcher.apk"
   },
   {
     "appId": "com.example.todo",
