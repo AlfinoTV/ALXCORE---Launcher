@@ -4,15 +4,15 @@
     "name": "ALXCORE Launcher",
     "description": "Der zentrale App-Hub",
     "versionCode": 2, 
-    "apkSizeMb": 4.8,
-    "downloadUrl": "https://github.com/AlfinoTV/ALXCORE---Launcher/releases/download/v1.1.1/ALXCORE-Launcher.v.1.1.1.apk"
+    "apkSizeMb": 18,55,
+    "downloadUrl": "https://github.com/AlfinoTV/ALXCORE---Launcher/releases/download/v.2.0.0/ALXCORE-Launcher.v.2.0.0.apk"
   },
   {
     "appId": "com.example.todo",
     "name": "ToDO App",
     "description": "Deine Aufgaben im Blick",
     "versionCode": 1,
-    "apkSizeMb": 6.2,
+    "apkSizeMb": 25,12,
     "downloadUrl": "https://github.com/AlfinoTV/ALXCORE---Launcher/releases/download/v1.0/ToDO.apk"
   }
 ]
